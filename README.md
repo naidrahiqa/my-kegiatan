@@ -74,7 +74,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/username/my-kegiatan.git
+    git clone https://github.com/naidrahiqa/my-kegiatan.git
     cd my-kegiatan
     ```
 
@@ -109,7 +109,7 @@ Kami sangat terbuka untuk kontribusi! Jika Anda memiliki ide untuk fitur baru at
 
 <div align="center">
 
-  **Dibuat dengan 💙 oleh [Developer Name]**
+  **Dibuat dengan 💙 oleh NairahiqaXAntigravity**
   
   *© 2024 Schedule TuneUp. All Rights Reserved.*
 
