@@ -1,4 +1,4 @@
-# 📅 Schedule TuneUp (My Kegiatan)
+# 📅 My Kegiatan
 
 <div align="center">
 
