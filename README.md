@@ -13,7 +13,7 @@
   
   *Kelola jadwamu, pantau produktivitas, dan bangun kebiasaan positif dengan antarmuka yang memukau.*
 
-  [Fitur](#-fitur-unggulan) • [Teknologi](#-teknologi--library) • [Instalasi](#-cara-instalasi) • [Screenshots](#-galeri-aplikasi)
+  [Fitur](#-fitur-unggulan) • [Teknologi](#-teknologi--library) • [Instalasi](#-cara-instalasi)
 
 </div>
 
